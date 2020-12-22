@@ -1,3 +1,3 @@
 # Interview-prep
 
-1. Merge Intervals [] []
+1. Merge Intervals [] [python]
